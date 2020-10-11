@@ -1,5 +1,8 @@
 
 print("Hello World")
+
+print("Olá eu sou o Gru!!")
+
 print("Juu")
 print("predo")
 
