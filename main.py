@@ -1,5 +1,11 @@
 
 print("Hello World")
+
+infobioJr = "Melhor EJ"
+
+if(infobioJr == "Melhor EJ"):
+    print("Voa InfobioJr")
+    
 print("Macorelo")
 print("Olá eu sou o Gru!!")
 
