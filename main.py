@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 
 print("Hello World")
 
@@ -13,3 +14,7 @@ print("As vezes no silêncio da noite eu fico imaginando")
 print("que eu sou a Bemol!!!!!!!")
 print("E estou cansado de dar merges!")
 
+=======
+print("Hello World!")
+print("Olá eu sou o Gru!!")
+>>>>>>> Stashed changes
